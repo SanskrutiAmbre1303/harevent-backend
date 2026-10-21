@@ -69,6 +69,11 @@ The vendor endpoints require a JWT token. I also tested a request without a toke
 After deleting a vendor, requesting that vendor by ID returned 404 Not Found.
 
 
-<img width="1366" height="768" alt="deletevendor" src="https://github.com/user-attachments/assets/5636d837-37d9-428b-a490-d8024ddf92fa" />
-<img width="1365" height="718" alt="Category " src="https://github.com/user-attachments/assets/fc4de60b-f242-4b51-b817-4971cab255ea" />
-<img width="1366" height="768" alt="Login" src="https://github.com/user-attachments/assets/7c742ecf-0235-4cad-94e9-f40df08dc364" />
+<img width="1366" height="644" alt="deletevendor" src="https://github.com/user-attachments/assets/1beb5f32-830c-4995-a3c3-fbd149c8622d" />
+
+<img width="1366" height="688" alt="Vendors" src="https://github.com/user-attachments/assets/79f47ab3-ea3a-4e60-85a9-c1af2f82d2f4" />
+
+<img width="1365" height="718" alt="Category " src="https://github.com/user-attachments/assets/b89d6154-6cb5-43cb-85ac-bc564a1da901" />
+
+<img width="1366" height="699" alt="Login" src="https://github.com/user-attachments/assets/53fe4830-f879-4363-89c5-ba828fa8d066" />
+
