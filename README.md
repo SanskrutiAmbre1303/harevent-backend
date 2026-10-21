@@ -67,3 +67,8 @@ I used Postman to test the APIs. I tested user signup and login, vendor creation
 The vendor endpoints require a JWT token. I also tested a request without a token and received 401 Unauthorized, as expected.
 
 After deleting a vendor, requesting that vendor by ID returned 404 Not Found.
+
+
+<img width="1366" height="768" alt="deletevendor" src="https://github.com/user-attachments/assets/5636d837-37d9-428b-a490-d8024ddf92fa" />
+<img width="1365" height="718" alt="Category " src="https://github.com/user-attachments/assets/fc4de60b-f242-4b51-b817-4971cab255ea" />
+<img width="1366" height="768" alt="Login" src="https://github.com/user-attachments/assets/7c742ecf-0235-4cad-94e9-f40df08dc364" />
