@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6ad89cf0ec4c2c87a8254a74"
+  },
+  "name": "Test User",
+  "email": "testuser@example.com",
+  "password": "$2b$10$Lf9koxyDuFa/HTT2gxnSM.yVNuKP81Z3gqpmTtste3/HGIIiDN5iC",
+  "role": "user",
+  "createdAt": {
+    "$date": "2026-10-21T11:07:28.264Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-21T11:07:28.264Z"
+  },
+  "__v": 0
+}]
